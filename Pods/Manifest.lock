@@ -1,0 +1,20 @@
+PODS:
+  - ASToast (1.1.2)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - ASToast (~> 1.1.2)
+  - youtube-ios-player-helper (~> 0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ASToast
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  ASToast: 490fa575d7fdec1b847a9c24b58539e8c4e4a531
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: f4b491f9ee55f7c4b7feb6fa4b12aabf6b87b399
+
+COCOAPODS: 1.5.3

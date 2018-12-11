@@ -1,7 +1,6 @@
 //
 //  ViewController.swift
 //  GoogleApp
-//
 //  Created by Sagar on 15/11/18.
 //  Copyright © 2018 Sagar. All rights reserved.
 //
